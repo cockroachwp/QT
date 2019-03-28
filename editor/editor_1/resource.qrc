@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/file_edit.ico</file>
+        <file>images/file_save.ico</file>
+        <file>images/return_1.ico</file>
+        <file>images/return_1t.ico</file>
+        <file>images/return_128t.ico</file>
+        <file>images/save_.ico</file>
+        <file>images/color.png</file>
+        <file>images/WordColor.png</file>
+        <file>images/groud.png</file>
+        <file>images/13.png</file>
+        <file>images/gr.jpg</file>
+        <file>images/hhh.jpeg</file>
+    </qresource>
+</RCC>
